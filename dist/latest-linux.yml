@@ -1,0 +1,9 @@
+version: 1.0.0
+files:
+  - url: Roistat-Chat-1.0.0.AppImage
+    sha512: QYAITU4KGC1fVs698pTYhF895qBvmpfJzYre8NYbGxm48avFLt4r2qNHrHdeUF6UWb5jGUYRlsTy2U1RR7e3OA==
+    size: 81178084
+    blockMapSize: 85496
+path: Roistat-Chat-1.0.0.AppImage
+sha512: QYAITU4KGC1fVs698pTYhF895qBvmpfJzYre8NYbGxm48avFLt4r2qNHrHdeUF6UWb5jGUYRlsTy2U1RR7e3OA==
+releaseDate: '2021-02-09T14:02:54.511Z'
